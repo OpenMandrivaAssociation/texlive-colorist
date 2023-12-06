@@ -1,6 +1,6 @@
 Name:		texlive-colorist
-Version:	64280
-Release:	2
+Version:	68440
+Release:	1
 Summary:	Write your articles or books in a colorful way
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/colorist
