@@ -1,5 +1,5 @@
 Name:		texlive-colorist
-Version:	68440
+Version:	70101
 Release:	1
 Summary:	Write your articles or books in a colorful way
 Group:		Publishing
