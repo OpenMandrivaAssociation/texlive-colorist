@@ -3,7 +3,7 @@ Version:	70101
 Release:	1
 Summary:	Write your articles or books in a colorful way
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/colorist
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/colorist
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/colorist.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/colorist.doc.r%{version}.tar.xz
